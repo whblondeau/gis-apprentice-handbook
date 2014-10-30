@@ -20,6 +20,9 @@ Personal opinions shared in pull requests will be flagged as the monstrous brain
 
 No matter how much I love someone's contributions I will not pay for them. I will, however, scrupulously manually credit concepts, ideas, and inspirations not sufficiently documented by GitHub's version control processes.
 
+#### Consistency
+Haha. No small foolish hobgoblins here. The content of this Handbook will change a lot, sometimes reversing bold statements, sometimes completely replacing or revising large chunks of content.
+
 <hr/>
 
 ## Because somebody had to, sooner or later
@@ -35,19 +38,19 @@ Well, perhaps _you_ don't, which is fine. In fact, it's kind of a compliment tha
 I said "for whatever reason", but I actually have some guesses. Maybe people can give some thumbs up/down observations here.
 - Although GIS is a hot new field, showing some of the most explosive growth in the industry outside of stupid social mobile apps that let you put a lipstick color picker on your selfies or something, the number of actual working developers may still be small compared to the number of people working on lipstick color pickers etc.
 
-- The bulk of GIS work may still be bound up in the [ESRI](http://www.esri.com/) ecosystem. ESRI, being proprietary, closed-source, and Windows-only, is a nonstarter for my current work. It may be that the open GIS resources, which is what I'm referring to when I talk about the difficulty of finding adequate material online, are used by a small slice of the GIS community in general.
+- The bulk of GIS work may still be bound up in the [ESRI](http://www.esri.com/) ecosystem. ESRI, being proprietary, closed-source, and Windows-only, is a nonstarter for my current work. It may be that the open GIS resources, which is what I'm referring to when I talk about the difficulty of finding adequate material online, are used by only a small slice of a much larger GIS community.
 
 - GIS developers may be too busy (or, equivalently, nobody is going to pay them) to provide this kind of general community contribution in sufficient volume.
 
-- Non-ESRI GIS development is still such a young field that there's been little time to accumulate the body of helpful content for which I yearn.
+- Non-ESRI GIS development is still such a young field that there's been little time to accumulate the searchable body of helpful content for which I yearn.
 
 - Really, it's out there after all, and I'm too damn dumb to find it.
 
-I'm sure other factors are in play. However, I'm less concerned with the etiology of this sorry-ass situation than I am with getting around it. My natural instinct is to document what I am having a hard time learning. I hope this is useful to others, but there's no question that it will be useful to me.
+I'm sure other factors are in play. However, I'm less concerned with the etiology of this sorry-ass situation than I am with getting around it. My natural instinct is to document whatever I am having a hard time learning. I hope this is useful to others, but there's no question that it will be useful to me.
 
 ## What's this Handbook going to cover?
 
-A Handbook, traditionally, is a subject-specific concentration of pertinent definitions, sufficient explanations, and material that would otherwise have to be looked up or chased down. That's pretty much what I'm going for here. The specific subject is open source GIS software development.
+A Handbook, traditionally, is a subject-specific concentration of pertinent definitions, sufficient explanations, and material that would otherwise have to be looked up or chased down. That's pretty much what I'm going for here. The specific subject is GIS software development - primarily on the open source side.
 
 The particular topics here include (I say "include" because I'll miss a lot; and besides, the field won't be holding still):
 
