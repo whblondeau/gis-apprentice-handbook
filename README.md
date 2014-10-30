@@ -3,12 +3,16 @@ The GIS Apprentice's Handbook
 
 A general GIS resource for apprentice Web programmers. Edited and primarily written by Bill Blondeau.
 
-### Disclaimer
-Please note that, although it's for contextual reasons being initially composed and published as a USGS Github repo, this work is neither authorized by, nor representative of, the US Geological Survey. It's a personal work, likely to be opinionated to an unprofessional degree, contentious, and (in an attempt to make technical prose more salient through memorable, even vivid devices of analogy and prose) subject to lapses of tone and decorum which the USGS must organizationally deplore, and may well disown. Should we reach that juncture, I'll quickly shift development to a personal fork. 
+### Disclaimers
 
-The same caution applies to any commendations (or their unhappy opposites) that might appear here. If I say that I like a library, a technical book, a discussion group, etc., it is my own personal opinion. It does not, for goodness's sake, constitute any kind of endorsement by the USGS. Personal opinions shared in pull requests will be flagged as the monstrous brainchildren of their authors; unless the opinion is one I share, in which case it will be flagged as inarguably true and admirably perceptive.
+#### The US Geological Survey
+Please note that, although as this work begins I am working for the US Geological Survey's Center for Integrated Data Analysis, this has no connection to USGS. It's a personal work, likely to be opinionated to an unprofessional degree, contentious, and (in an attempt to make technical prose more salient through memorable, even vivid devices of analogy and prose) subject to lapses of tone and decorum. 
 
-As long as my USGS repo is this Handbook's canonical, please hold the USGS blameless. This is all on me.
+I am not writing in any official work-related capacity. Nothing herein constitutes any kind of endorsement by the USGS, and nothing herein can be blamed on the USGS. 
+
+#### Contributors
+Personal opinions shared in pull requests will be flagged as the monstrous brainchildren of their authors; unless the opinion is one I share, in which case it will be flagged as inarguably true and admirably perceptive.
+
 
 ## Because somebody had to, sooner or later
 GIS is, according to [Wikipedia](http://en.wikipedia.org/wiki/Geographic_information_system), "a computer system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data."
