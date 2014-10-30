@@ -5,14 +5,22 @@ A general GIS resource for apprentice Web programmers. Edited and primarily writ
 
 ### Disclaimers
 
-#### The US Geological Survey
-Please note that, although as this work begins I am working for the US Geological Survey's Center for Integrated Data Analysis, this has no connection to USGS. It's a personal work, likely to be opinionated to an unprofessional degree, contentious, and (in an attempt to make technical prose more salient through memorable, even vivid devices of analogy and prose) subject to lapses of tone and decorum. 
+#### No IP warfare here
+This repo is being released under the Creative Commons Share-Alike License 2.0.
 
-I am not writing in any official work-related capacity. Nothing herein constitutes any kind of endorsement by the USGS, and nothing herein can be blamed on the USGS. 
+#### Not a day job project
+Please note that, although as this work begins I am working for the US Geological Survey's Center for Integrated Data Analysis, this Handbook has no connection to the USGS. I am not writing in any official work-related capacity. This is a personal undertaking, written on my own time.
+
+This will presumably come as a relief to the USGS. This Handbook is likely to be opinionated to an unprofessional degree, contentious, and (in an attempt to make technical prose more salient through memorable, even vivid devices of analogy and prose) subject to lapses of tone and decorum. 
+
+Nothing herein constitutes any kind of endorsement by the USGS, and nothing herein can be blamed on the USGS. Unless you want to blame them for exposing me to GIS in the first place.
 
 #### Contributors
 Personal opinions shared in pull requests will be flagged as the monstrous brainchildren of their authors; unless the opinion is one I share, in which case it will be flagged as inarguably true and admirably perceptive.
 
+No matter how much I love someone's contributions I will not pay for them. I will, however, scrupulously manually credit concepts, ideas, and inspirations not sufficiently documented by GitHub's version control processes.
+
+<hr/>
 
 ## Because somebody had to, sooner or later
 GIS is, according to [Wikipedia](http://en.wikipedia.org/wiki/Geographic_information_system), "a computer system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data."
