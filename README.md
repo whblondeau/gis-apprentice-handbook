@@ -21,7 +21,7 @@ Personal opinions shared in pull requests will be flagged as the monstrous brain
 No matter how much I love someone's contributions I will not pay for them. I will, however, scrupulously manually credit concepts, ideas, and inspirations not sufficiently documented by GitHub's version control processes.
 
 #### Consistency
-Haha. No small foolish hobgoblins here. The content of this Handbook will change a lot, sometimes reversing bold statements, sometimes completely replacing or revising large chunks of content.
+Haha. No small foolish hobgoblins here. The content of this Handbook will change a lot, sometimes reversing bold statements, sometimes completely replacing or revising large chunks of content. Hopefully these changes will always be in the direction of accuracy and clarity, but I promise nothing.
 
 <hr/>
 
@@ -33,7 +33,9 @@ This repository is much less generic than that. Its purpose is narrower and shal
 Why do we need this?
 
 
-Well, perhaps _you_ don't, which is fine. In fact, it's kind of a compliment that you're reading this if you don't have to. But I did need a handbook like this, and I do, and I have a hard time believing that nobody else could benefit from it. For whatever reason, fundamental explanations, clear tutorials, reference works, and useful examples are pretty thin on the ground in GIS programming. I've gotten used to resorting to Google searches (yet another dependency on yet another aspiring Evil Empire, I know, I know) whenever I want to find out, quickly, how to use some new software language/library/framework/tool/technique.
+Well, perhaps _you_ don't, which is fine. In fact, it's kind of a compliment that you're reading this if you don't have to. But I did need a handbook like this, and I do, and I have a hard time believing that nobody else could benefit from it.
+
+I've gotten used to resorting to Google searches (yet another dependency on yet another aspiring Evil Empire, I know, I know) whenever I want to find out, quickly, how to use some new software language/library/framework/tool/technique. For whatever reason, fundamental explanations, clear tutorials, reference works, and useful examples are pretty thin on the ground in GIS programming.
 
 I said "for whatever reason", but I actually have some guesses. Maybe people can give some thumbs up/down observations here.
 - Although GIS is a hot new field, showing some of the most explosive growth in the industry outside of stupid social mobile apps that let you put a lipstick color picker on your selfies or something, the number of actual working developers may still be small compared to the number of people working on lipstick color pickers etc.
