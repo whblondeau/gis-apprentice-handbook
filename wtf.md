@@ -29,7 +29,7 @@ The most cartographically significant flattenable surfaces are the _cylinder_ an
 A Cartographic Projection is simply a way of solving the problem of representing the spherical Earth on a flat surface - and solving it in a useful way. 
 
 The most useful ways that have so far been introduced are linear projections on a plane, a cylinder, or a cone. Like this:
-<image src='https://github.com/whblondeau/gis-apprentice-handbook/blob/master/images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
+<img src='https://github.com/whblondeau/gis-apprentice-handbook/blob/master/images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
 
 
 ## WTF is a shapefile?
