@@ -3,7 +3,7 @@
 ## WTF is a Cartographic Projection?
 This is an important question, since GIS software without a defined Cartographic Projection is like a door without hinges: it just won't work, at all.
 
-Cartographic Projections are, to be simple about it, mathematical procedures that transfer a point on the Earth's surface to a point on a flat surface (such as a paper map or a computer screen.) They are also guaranteed to work in reverse, starting with a point on a map and transferring that location back to the Earth's surface. In other words, a Cartographic Projection is the round-trip geometry that makes your map useful.
+Cartographic Projections are, to be basic about it, mathematical procedures that transfer a point on the Earth's surface to a point on a flat surface (such as a paper map or a computer screen.) They are also guaranteed to work in reverse, starting with a point on a map and transferring that location back to the Earth's surface. In other words, a Cartographic Projection is the round-trip geometry that makes your map useful.
 
 Why do we need to do this? Well, basically, because the Earth is spherical. (Yes, you persnickety geodetic bitches, I know: it's _technically_ an oblate ellipsoid, and even more technically a geoid; but at the WTF level of abstraction it's just a fucking sphere, all right? At our present level of discussion, you can't tell the difference.) The Earth, then, is a sphere, and maps are always flat surfaces for practical reasons.
 
@@ -29,7 +29,7 @@ The most cartographically significant flattenable surfaces are the _cylinder_ an
 A Cartographic Projection is simply a way of solving the problem of representing the spherical Earth on a flat surface - and solving it in a useful way. 
 
 The most useful ways that have so far been introduced are linear projections on a plane, a cylinder, or a cone. Like this:
-<image src='images/rice-projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
+<image src='https://github.com/whblondeau/gis-apprentice-handbook/blob/master/images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
 
 
 ## WTF is a shapefile?
