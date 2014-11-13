@@ -13,7 +13,8 @@ t's impossible to transfer shapes from a curved surface to a flat surface withou
 OK, hopefully you are convinced about the geometrical incompatibility of flat surfaces and spherical surfaces. But there's another kind of surface in 3D space that we need to consider. Its right mathematical name is _developable_, but I prefer to call it "flattenable". A flattenable surface is one that is not flat, but on which you _can_ lay a straight line. This is a _simply curved_ surface, and the easiest way to identify it is that you can create it from a flat piece of paper by curling or folding it. You can always unroll the curl, or unfold the creases, and get back to a purely flat piece of paper. _You can't do that with the orange peel_, because the orange peel cannot be flattened without distortion.
 
 The most cartographically significant flattenable surfaces are the _cylinder_ and the _cone_. (Specifically, the right circular cylinder and cone.)
-<blockquote>**Exercise in case you don't get it**
+
+**Exercise in case you don't get it**
 
  1. Take a largish sheet of paper.
 
@@ -23,7 +24,7 @@ The most cartographically significant flattenable surfaces are the _cylinder_ an
 
  4. Unroll the cone and flatten it out.
 
- 5. Repeat this process until you grasp the flattenable nature of the cone. Don't lose faith: _It will come to you_, I swear.</blockquote>
+ 5. Repeat this process until you grasp the flattenable nature of the cone. Don't lose faith: _It will come to you_, I swear.
 
 A Cartographic Projection is simply a way of solving the problem of representing the spherical Earth on a flat surface - and solving it in a useful way. 
 
