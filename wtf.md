@@ -34,6 +34,7 @@ The most cartographically significant flattenable surfaces are the _cylinder_ an
 A Cartographic Projection is simply a way of solving the problem of representing the spherical Earth on a flat surface - and solving it in a useful way. There is an infinite number of possible projections, but only a few of them serve a useful purpose.
 
 The most useful ways that have so far been introduced are, as mentioned, linear projections on a plane, a cylinder, or a cone. Like this:
+
 <img src='images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
 
 There is one truth about any projection of the Earth onto a flat, or flattenable, surface: **They distort. All of them.** For the same reason as the flattened orange peel gets squeezed and stretched. You just have to choose what kind of distortion you want.
