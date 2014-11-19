@@ -53,7 +53,7 @@ The ocean, however, is 1) very fucking big and 2) comparatively empty of obstacl
 #### Helmsman's Straight line: a _rhumb line_ (for mathematicians, a _loxodrome_)
 
 The helmsman's notion of "straight" is something like, "I keep the ship on the same heading." And, subject to the actions of wind, wave, current, and a sleepy/stoned/otherwise inattentive helmsman, doing this will take the vessel along a rhumb line. Except for a few special headings such as East, West, North, and South, a rhumb line is actually something that, plotted on a globe, you would immediately identify as a spiral. (Unless you're a mathematician, in which case you'd say, "Bitch please: a loxodrome as ever was, that is.") The helmsman's "straight line" is straight in the sense that it's constant in its reference to north. However, since you're traversing a fair chunk of the globe's surface, you are actually winding yourself round and round, closer and closer to one of the poles, like a dog winding its leash around a tree.
-<img src='http://en.wikipedia.org/wiki/File:Loxodrome.png' alt='loxodrome image on globe, from wikipedia'/>
+<img src='http://en.wikipedia.org/wiki/File:Loxodrome.png#file' alt='loxodrome image on globe, from wikipedia'/>
 
 #### Rubber band's straight line: a _Great Circle_
 
