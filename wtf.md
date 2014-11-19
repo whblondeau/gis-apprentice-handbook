@@ -34,7 +34,7 @@ The most cartographically significant flattenable surfaces are the _cylinder_ an
 A Cartographic Projection is simply a way of solving the problem of representing the spherical Earth on a flat surface - and solving it in a useful way. There is an infinite number of possible projections, but only a few of them serve a useful purpose.
 
 The most useful ways that have so far been introduced are, as mentioned, linear projections on a plane, a cylinder, or a cone. Like this:
-<img src='https://github.com/whblondeau/gis-apprentice-handbook/blob/master/images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
+<img src='images/rice_projections.jpg' alt='drawings of planar, cylindrical, and conic projections'/>
 
 There is one truth about any projection of the Earth onto a flat, or flattenable, surface: **They distort. All of them.** For the same reason as the flattened orange peel gets squeezed and stretched. You just have to choose what kind of distortion you want.
 
@@ -53,6 +53,7 @@ The ocean, however, is 1) very fucking big and 2) comparatively empty of obstacl
 #### Helmsman's Straight line: a _rhumb line_ (for mathematicians, a _loxodrome_)
 
 The helmsman's notion of "straight" is something like, "I keep the ship on the same heading." And, subject to the actions of wind, wave, current, and a sleepy/stoned/otherwise inattentive helmsman, doing this will take the vessel along a rhumb line. Except for a few special headings such as East, West, North, and South, a rhumb line is actually something that, plotted on a globe, you would immediately identify as a spiral. (Unless you're a mathematician, in which case you'd say, "Bitch please: a loxodrome as ever was, that is.") The helmsman's "straight line" is straight in the sense that it's constant in its reference to north. However, since you're traversing a fair chunk of the globe's surface, you are actually winding yourself round and round, closer and closer to one of the poles, like a dog winding its leash around a tree.
+
 <img src='images/599px-Loxodrome.png' alt='loxodrome image on globe, from wikipedia'/>
 
 #### Rubber band's straight line: a _Great Circle_
