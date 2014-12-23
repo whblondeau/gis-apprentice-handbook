@@ -53,13 +53,28 @@ The ocean, however, is 1) very fucking big and 2) comparatively empty of obstacl
 
 #### Helmsman's Straight line: a _rhumb line_ (for mathematicians, a _loxodrome_)
 
-The helmsman's notion of "straight" is something like, "I keep the ship on the same heading." And, subject to the actions of wind, wave, current, and a sleepy/stoned/otherwise inattentive helmsman, doing this will take the vessel along a rhumb line. Except for a few special headings such as East, West, North, and South, a rhumb line is actually something that, plotted on a globe, you would immediately identify as a spiral. (Unless you're a mathematician, in which case you'd say, "Bitch please: a loxodrome as ever was, that is.") The helmsman's "straight line" is straight in the sense that it's constant in its reference to north. However, since you're traversing a fair chunk of the globe's surface, you are actually winding yourself round and round, closer and closer to one of the poles, like a dog winding its leash around a tree.
+The helmsman's notion of "straight" is something like, "I keep the ship on the same heading." And, subject to the actions of wind, wave, current, and a sleepy/stoned/otherwise inattentive helmsman, doing this will take the vessel along a rhumb line. Except for a few special headings such as East, West, North, and South, a rhumb line is actually something that, plotted on a globe, you would immediately identify as a spiral. (Unless you're a mathematician, in which case you'd say, "Bitch please: that's a loxodrome as ever was, that is.") The helmsman's "straight line" is straight in the sense that it's constant in its reference to north. However, since you're traversing a fair chunk of the globe's surface, you are actually winding yourself round and round, closer and closer to one of the poles, like a dog winding its leash around a tree.
 
 <img src='images/599px-Loxodrome.png' alt='loxodrome image on globe, from wikipedia'/>
 
 #### Rubber band's straight line: a _Great Circle_
 
-The other kind of straight line is more meaningfully straight from a global perspective. I'm calling it the rubber band line because it's what you get when you stretch a rubber band between any two points on the globe.
+The other kind of straight line is more meaningfully straight from a global perspective. I'm calling it the rubber band line because it's what you get when you stretch a rubber band between any two points on the globe. Its right name, however, is _Great Circle_.
+
+One very helpful geometric definition of a great circle is _the intersection of the Earth's surface with a plane that passes through the Earth's center_.
+
+Another useful way of thinking about it is _a circle inscribed on the Earth's surface whose diameter is the same as the Earth's diameter_. In other words, it's a "great" circle because there is no way to draw a circle on the Earth's surface that is any bigger than a great circle.
+
+Great circles have an elegant and very significant property: for any two points on the globe, the shortest track between them is a segment of a great circle. This has obvious practical uses in navigation (particularly maritime and aeronautical) and is of general utility in geographical applications.
+
+There are a few great circles that are privileged in longitude and latitude:
+
+## WTF is a geoid?
+Strictly speaking, a surface of equal gravitational potential around a planetary body. Normally, Earth.
+
+A geoid is very geodesically important because it is at any point normal (perpendicular) to the sense of "up" and "down". The most widely used and understood geoid is mean sea level; in general, the surface of any sufficiently large, non-flowing body of water can be usefully treated as a geoid for precise geographical purposes.
+
+A geoid that extends around the Earth's entire surface is necessarily an oblate ellipsoid, shaped by the static forces of gravity and the dynamic forces observed in a rotating frame of reference. Resolve those forces, and you end up with the gravitational vector that is exactly normal to the geoid's surface.
 
 
 ## WTF is a shapefile?
